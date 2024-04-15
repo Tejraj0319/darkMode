@@ -1,6 +1,6 @@
 
 
-**Welcome to the Dark Side: Enabling Dark Mode in Your React.js Mini Project**
+*Welcome to the Dark Side: Enabling Dark Mode in Your React.js Mini Project:
 
 In today's digital age, user experience plays a pivotal role in determining the success of web applications. One significant aspect of enhancing user experience is providing them with options for personalization, and one such feature gaining popularity is dark mode.
 
